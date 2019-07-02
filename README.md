@@ -12,7 +12,7 @@ We're maintaining a list of all ambient calculus related research papers in this
 
 ## Tools
 
-- [AmbiIcobjs](https://www-sop.inria.fr/mimosa/ambicobjs/) - Simulation tool for ambient expressions
+- [AmbiIcobjs](https://www-sop.inria.fr/mimosa/ambicobjs/) - Simulation tool for ambient calculus reductions
 
 ## Learning Material
 
