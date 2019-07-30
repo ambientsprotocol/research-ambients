@@ -17,3 +17,7 @@ We're maintaining a list of all ambient calculus related research papers in this
 ## Learning Material
 
 - [The Ambient Calculus lecture slides](http://fpl.cs.depaul.edu/jriely/547/extras/ncsm_iii_bertinoro.pdf) - Overview of Ambient Calculus, examples (boolean flags, objective moves, turing machines), encoding π-calculus in ambient calculus, types for ambients.
+
+## License
+
+ [CC-BY 4.0](LICENSE), © 2019 Haja Networks Oy
