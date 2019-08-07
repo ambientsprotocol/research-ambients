@@ -20,4 +20,4 @@ We're maintaining a list of all ambient calculus related research papers in this
 
 ## License
 
- [CC-BY 4.0](LICENSE), © 2019 Haja Networks Oy
+ [CC-BY-SA 4.0](LICENSE), © 2019 Haja Networks Oy
